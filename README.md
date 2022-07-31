@@ -12,3 +12,4 @@ This repository contains my some of the benefits I discovered after using Pluria
 - daily commuting time
 - preparing yourself for the daily departure and arrival
 - risks of getting a disease, not necessarily covid or smth, but even something as basic as a cold
+- being distracted by other people or the environment
