@@ -3,6 +3,7 @@
 This repository contains my some of the benefits I discovered after using Pluria, STUP and Bucharest Hub coworking spaces, with some disadvantages outlined too.
 
 # Advantages
+- no time spent on commuting
 
 # Disadvantages
 - daily commuting time
