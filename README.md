@@ -5,4 +5,5 @@ This repository contains my some of the benefits I discovered after using Pluria
 # Advantages
 
 # Disadvantages
-
+- daily commuting time
+- preparing yourself for the daily departure and arrival
