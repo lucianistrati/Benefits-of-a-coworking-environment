@@ -5,6 +5,7 @@ This repository contains my some of the benefits I discovered after using Pluria
 # Advantages
 - no time spent on commuting
 - no money spent on commuting
+- no need to spend money out or to pack food at home
 
 # Disadvantages
 - daily commuting time
