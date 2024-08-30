@@ -13,5 +13,3 @@ This repository contains my some of the benefits I discovered after using Pluria
 - preparing yourself for the daily departure and arrival
 - risks of getting a disease, not necessarily covid or smth, but even something as basic as a cold
 - being distracted by other people or the environment
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
